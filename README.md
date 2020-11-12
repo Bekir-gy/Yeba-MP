@@ -1,2 +1,3 @@
 # Yeba-MP
-YEBA music player App
+YEBA music player projesi
+
